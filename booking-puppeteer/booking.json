@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Amérian Cordoba Park Hotel",
+    "price": "$ 12.202",
+    "tax": "+ $ 2.562 de impuestos y cargos",
+    "room": "Habitación Doble Estándar",
+    "qualification": "Bien\n1.389 comentarios"
+  },
+  {
+    "name": "Hotel Sussex",
+    "price": "$ 7.142",
+    "tax": "+ $ 1.500 de impuestos y cargos",
+    "room": "Habitación Doble Superior - 2 camas",
+    "qualification": "Bien\n1.166 comentarios"
+  },
+  {
+    "name": "NH Córdoba Urbano",
+    "price": "$ 13.091",
+    "tax": "+ $ 2.749 de impuestos y cargos",
+    "room": "Habitación Doble Estándar - 1 o 2 camas",
+    "qualification": "Muy bien\n1.025 comentarios"
+  },
+  {
+    "name": "Buen Pastor Capuchinos",
+    "price": "$ 7.368",
+    "tax": "+ $ 1.547 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Fabuloso\n972 comentarios"
+  },
+  {
+    "name": "Santiago Hotel",
+    "price": "$ 7.198",
+    "tax": "+ $ 1.512 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Muy bien\n592 comentarios"
+  },
+  {
+    "name": "Novum Suites",
+    "price": "$ 5.872",
+    "tax": "+ $ 1.233 de impuestos y cargos",
+    "room": "Habitación Doble Executive",
+    "qualification": "Puntuación\n910 comentarios"
+  },
+  {
+    "name": "AT Suites",
+    "price": "$ 13.490",
+    "tax": "+ $ 2.833 de impuestos y cargos",
+    "room": "Apartamento Estándar",
+    "qualification": "Fantástico\n409 comentarios"
+  },
+  {
+    "name": "Hotel Everest",
+    "price": "$ 8.638",
+    "tax": "+ $ 1.814 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Fabuloso\n365 comentarios"
+  },
+  {
+    "name": "Quorum Córdoba Hotel, Resort Urbano",
+    "price": "$ 16.514",
+    "tax": "+ $ 3.468 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Muy bien\n513 comentarios"
+  },
+  {
+    "name": "NH Córdoba Panorama",
+    "price": "$ 13.944",
+    "tax": "+ $ 2.928 de impuestos y cargos",
+    "room": "Habitación Doble Estándar - 1 o 2 camas",
+    "qualification": "Bien\n1.632 comentarios"
+  },
+  {
+    "name": "Holiday Inn Cordoba, an IHG Hotel",
+    "price": "$ 20.042",
+    "tax": "+ $ 4.209 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas dobles",
+    "qualification": "Fabuloso\n777 comentarios"
+  },
+  {
+    "name": "Windsor Hotel & Tower Argentina",
+    "price": "$ 15.883",
+    "tax": "+ $ 3.335 de impuestos y cargos",
+    "room": "Habitación Doble Superior - 2 camas",
+    "qualification": "Fabuloso\n658 comentarios"
+  },
+  {
+    "name": "Hotel Petit",
+    "price": "$ 5.589",
+    "tax": "+ $ 1.174 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Bien\n349 comentarios"
+  },
+  {
+    "name": "Selina Nueva Cordoba",
+    "price": "$ 8.398",
+    "tax": "+ $ 1.764 de impuestos y cargos",
+    "room": "Habitación Pequeña con baño compartido",
+    "qualification": "Fabuloso\n897 comentarios"
+  },
+  {
+    "name": "Howard Johnson La Cañada Hotel & Suites",
+    "price": "$ 14.725",
+    "tax": "+ $ 3.092 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Muy bien\n1.046 comentarios"
+  },
+  {
+    "name": "Departamentos Lugar",
+    "price": "$ 8.862",
+    "tax": "+ $ 1.861 de impuestos y cargos",
+    "room": "Apartamento Estudio",
+    "qualification": "Fabuloso\n596 comentarios"
+  },
+  {
+    "name": "Departamentos Illia By Lugar",
+    "price": "$ 9.308",
+    "tax": "+ $ 1.955 de impuestos y cargos",
+    "room": "Apartamento de 1 dormitorio",
+    "qualification": "Muy bien\n234 comentarios"
+  },
+  {
+    "name": "Córdoba Te Espera",
+    "price": "$ 4.234",
+    "tax": "+ $ 889 de impuestos y cargos",
+    "room": "Estudio con balcón",
+    "qualification": "Fabuloso\n629 comentarios"
+  },
+  {
+    "name": "Vilaut Smart Flat",
+    "price": "$ 8.751",
+    "tax": "+ $ 1.838 de impuestos y cargos",
+    "room": "Estudio Estándar (2 adultos)",
+    "qualification": "Fantástico\n58 comentarios"
+  },
+  {
+    "name": "Gran Hotel Victoria Cordoba Argentina",
+    "price": "$ 11.009",
+    "tax": "+ $ 2.312 de impuestos y cargos",
+    "room": "Suite Executive",
+    "qualification": "Muy bien\n451 comentarios"
+  },
+  {
+    "name": "Orfeo Suites Cordoba",
+    "price": "$ 18.738",
+    "tax": "+ $ 3.935 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Bien\n339 comentarios"
+  },
+  {
+    "name": "Azur Real Hotel Boutique",
+    "price": "$ 26.111",
+    "tax": "+ $ 5.483 de impuestos y cargos",
+    "room": "Habitación Doble Estándar",
+    "qualification": "Fantástico\n238 comentarios"
+  },
+  {
+    "name": "Ciudad Prado Hotel",
+    "price": "$ 11.143",
+    "tax": "+ $ 2.340 de impuestos y cargos",
+    "room": "Habitación Triple",
+    "qualification": "Fantástico\n183 comentarios"
+  },
+  {
+    "name": "Hostel Alvear",
+    "price": "$ 4.512",
+    "tax": "+ $ 948 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Muy bien\n119 comentarios"
+  },
+  {
+    "name": "Gran Rex Hotel",
+    "price": "$ 10.041",
+    "tax": "+ $ 2.109 de impuestos y cargos",
+    "room": "Habitación Doble - 1 o 2 camas",
+    "qualification": "Bien\n971 comentarios"
+  }
+]
