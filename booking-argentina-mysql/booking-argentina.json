@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Los Cerros del Chaltén Boutique Hotel",
+    "price": "$ 35.338",
+    "tax": "+ $ 7.421 de impuestos y cargos",
+    "room": "Habitación Doble Estándar - 1 o 2 camas",
+    "qualification": "Fantástico\n134 comentarios"
+  },
+  {
+    "name": "Howard Johnson Hotel Piedras Moras",
+    "price": "$ 20.065",
+    "tax": "+ $ 4.214 de impuestos y cargos",
+    "room": "Habitación con cama extragrande.",
+    "qualification": "Muy bien\n614 comentarios"
+  },
+  {
+    "name": "Benitez Hostería",
+    "price": "$ 7.795",
+    "tax": "+ $ 1.637 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Muy bien\n96 comentarios"
+  },
+  {
+    "name": "Hotel Plaza Bariloche",
+    "price": "$ 8.518",
+    "tax": "+ $ 1.789 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Bien\n999 comentarios"
+  },
+  {
+    "name": "Grand Hotel - Sierra De La Ventana",
+    "price": "$ 16.885",
+    "tax": "+ $ 3.546 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Muy bien\n94 comentarios"
+  },
+  {
+    "name": "Himmel Blau Rentals",
+    "price": "$ 13.767",
+    "tax": "Incluye impuestos y cargos",
+    "room": "Apartamento Superior",
+    "qualification": "Excepcional\n67 comentarios"
+  },
+  {
+    "name": "Hotel Amayal",
+    "price": "$ 12.013",
+    "tax": "+ $ 2.523 de impuestos y cargos",
+    "room": "Habitación Cuádruple Estándar",
+    "qualification": "Bien\n1.032 comentarios"
+  },
+  {
+    "name": "La Comarca",
+    "price": "$ 17.323",
+    "tax": "+ $ 3.638 de impuestos y cargos",
+    "room": "Cabaña con vistas al jardín",
+    "qualification": "Muy bien\n57 comentarios"
+  },
+  {
+    "name": "Hotel Batista",
+    "price": "$ 26.706",
+    "tax": "+ $ 5.608 de impuestos y cargos",
+    "room": "Suite Junior",
+    "qualification": "Fantástico\n176 comentarios"
+  },
+  {
+    "name": "Hotel Tierra Gaucha",
+    "price": "$ 15.433",
+    "tax": "+ $ 3.241 de impuestos y cargos",
+    "room": "Habitación Doble - 1 o 2 camas",
+    "qualification": "Bien\n869 comentarios"
+  },
+  {
+    "name": "Chalet Suisse Posada & SPA - Adults only",
+    "price": "$ 19.567",
+    "tax": "+ $ 4.109 de impuestos y cargos",
+    "room": "Habitación Doble con vistas al jardín",
+    "qualification": "Fantástico\n254 comentarios"
+  },
+  {
+    "name": "Esplendor by Wyndham Buenos Aires Tango",
+    "price": "$ 25.438",
+    "tax": "+ $ 5.342 de impuestos y cargos",
+    "room": "Habitación Doble Superior para no fumadores - 1 cama grande",
+    "qualification": "Fantástico\n426 comentarios"
+  },
+  {
+    "name": "Regente Palace Hotel",
+    "price": "$ 30.241",
+    "tax": "+ $ 6.351 de impuestos y cargos",
+    "room": "Habitación Doble Executive",
+    "qualification": "Bien\n1.874 comentarios"
+  },
+  {
+    "name": "Villa La Font Apart Hotel & Spa",
+    "price": "$ 15.590",
+    "tax": "+ $ 3.274 de impuestos y cargos",
+    "room": "Habitación Doble Estándar",
+    "qualification": "Fabuloso\n172 comentarios"
+  },
+  {
+    "name": "Blumenau Relax & Holidays",
+    "price": "$ 11.548",
+    "tax": "+ $ 2.425 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Muy bien\n136 comentarios"
+  },
+  {
+    "name": "Rotui Apart Hotel",
+    "price": "$ 24.685",
+    "tax": "+ $ 5.184 de impuestos y cargos",
+    "room": "Apartamento Superior",
+    "qualification": "Fantástico\n172 comentarios"
+  },
+  {
+    "name": "Posada Relmú",
+    "price": "$ 11.115",
+    "tax": "+ $ 2.334 de impuestos y cargos",
+    "room": "Habitación Deluxe - 1 cama grande",
+    "qualification": "Fabuloso\n91 comentarios"
+  },
+  {
+    "name": "El Coiron Aparts",
+    "price": "$ 29.773",
+    "tax": "+ $ 6.252 de impuestos y cargos",
+    "room": "Apartamento Dúplex",
+    "qualification": "Fantástico\n14 comentarios"
+  },
+  {
+    "name": "Hotel Tunuyan",
+    "price": "$ 8.712",
+    "tax": "+ $ 1.829 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Muy bien\n113 comentarios"
+  },
+  {
+    "name": "Howard Johnson Hotel Yerba Buena",
+    "price": "$ 17.056",
+    "tax": "+ $ 3.582 de impuestos y cargos",
+    "room": "Habitación Doble con 2 camas dobles - No fumadores",
+    "qualification": "Muy bien\n283 comentarios"
+  },
+  {
+    "name": "Hacienda de Molinos Hotel",
+    "price": "$ 20.280",
+    "tax": "+ $ 4.259 de impuestos y cargos",
+    "room": "Habitación Doble Estándar",
+    "qualification": "Fantástico\n219 comentarios"
+  },
+  {
+    "name": "Howard Johnson Resort & Spa Escobar",
+    "price": "$ 41.719",
+    "tax": "+ $ 8.761 de impuestos y cargos",
+    "room": "Habitación Doble Estándar",
+    "qualification": "Bien\n833 comentarios"
+  },
+  {
+    "name": "Bo Hotel De Encanto & Spa",
+    "price": "$ 10.394",
+    "tax": "+ $ 2.183 de impuestos y cargos",
+    "room": "Habitación Doble - 1 o 2 camas",
+    "qualification": "Muy bien\n171 comentarios"
+  },
+  {
+    "name": "Hotel Milton",
+    "price": "$ 7.146",
+    "tax": "+ $ 1.364 de impuestos y cargos",
+    "room": "Habitación Doble",
+    "qualification": "Fabuloso\n116 comentarios"
+  },
+  {
+    "name": "Hotel La Posta",
+    "price": "$ 14.435",
+    "tax": "+ $ 2.505 de impuestos y cargos",
+    "room": "Habitación Doble - 2 camas",
+    "qualification": "Fabuloso\n134 comentarios"
+  }
+]
